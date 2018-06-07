@@ -4,7 +4,7 @@ var input = [
     { x: 8, y: 15 }
   ];
 
-  //var result = input.map(obj => Math.sqrt(obj.x * obj.x + obj.y * obj.y));
+  var result = input.map(obj => Math.sqrt(obj.x * obj.x + obj.y * obj.y));
 
   /*
   WHAT DOES => DO?
